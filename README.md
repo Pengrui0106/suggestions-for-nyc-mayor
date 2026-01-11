@@ -40,5 +40,15 @@ The raw dataset was processed using a series of SQL transformations to ensure co
 
 ### Risk Profiles
 - **Medical Malpractice:** Kings County Hospital is a significant driver of Brooklyn's high average payouts.  
-- **Civil Rights:** "Long-tail risks," some cases date back to police misconduct in the 1980s and 90s; high frequency and high severity.  
-- **Personal**
+- **Civil Rights:** "Long-tail risks," some cases date back to police misconduct in the 1980s and 90s; high frequency and high severity. - **Personal Injury (PI):** Consistently leads to higher payouts. Costs are driven by injury severity rather than legal duration.  
+
+### Efficiency Gaps
+- Claims involving Health and Education departments are particularly slow, often taking **3.5 years to settle**.
+  
+---
+
+## 💡 Policy Recommendations for the Mayor
+- **Driver Training:** Enhance training for NYC government vehicle drivers, especially in Brooklyn and Manhattan, to reduce vehicle accidents.  
+- **Healthcare Staffing:** Address staff shortages at Kings County Hospital to reduce medical malpractice claims.  
+- **Correction & Police Reform:** Increase the use of cameras and digital evidence storage to prevent "evidence decay" and defend against speculative claims.  
+- **Early Mediation:** Establish early mediation programs for high-severity PI cases with clear liability to avoid mounting legal fees and statutory interest.  
