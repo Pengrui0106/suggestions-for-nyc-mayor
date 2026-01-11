@@ -3,6 +3,7 @@
 ## Project Overview
 This project provides a data-driven analysis of New York City’s government liability claims using data from the NYC Open Data portal. The primary goal is to identify patterns in claim frequency and severity to suggest cost-saving reforms. By reducing fiscal waste in legal payouts, the city could potentially reallocate funds toward initiatives such as free public transportation.
 
+Tableau Link: https://public.tableau.com/views/nyc_claims/NYCClaimStory?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ## 🔍 Key Business Questions
